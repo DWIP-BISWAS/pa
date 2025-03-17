@@ -1,0 +1,8 @@
+apscheduler>=3.11.0
+cryptography>=44.0.2
+nest-asyncio>=1.6.0
+python-dotenv>=1.0.1
+python-telegram-bot>=20.0,<21.0
+requests>=2.32.0
+telegram>=0.0.1
+twilio>=9.5.0
